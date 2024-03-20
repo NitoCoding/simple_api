@@ -6,7 +6,7 @@ Ikuti langkah-langkah berikut untuk setup proyek:
 
 1. Clone repositori ini:
     ```
-    git clone <url_repositori>
+    git clone [<url_repositori>](https://github.com/NitoCoding/simple_api.git)
     ```
 
 2. Inisiasi database dari `db_repositori` .
